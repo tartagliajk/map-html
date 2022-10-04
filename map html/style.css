@@ -1,0 +1,26 @@
+#cool{
+    background-color: aquamarine;
+    margin: 50px;
+    text-align: center;
+    align-content: center;
+    padding-top: 20px;
+    height: 100px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 550px;
+}
+
+#träpall{
+    width: 50%px;
+    margin-top: 50px;
+}
+
+#blanket{
+    width: 50%;
+    margin-top: 50px;
+}
